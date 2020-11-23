@@ -14,4 +14,5 @@ In response to the need to estimate CV19 prevalence using sample survey data wit
 2. Richard Li <lizehang@ucsc.edu>
 3. Yue Chue <chu.282@buckeyemail.osu.edu>
 4. Jon Wakefield <jonno@uw.edu>
-5. Samuel Clark <work@samclark.net>
+5. Abigail Norris Turner <ant@osumc.edu>
+6. Samuel Clark <work@samclark.net>
