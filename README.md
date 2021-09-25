@@ -7,7 +7,7 @@ In response to the need to estimate CV19 prevalence using sample survey data wit
 4. Antibody tests whose performance characteristics were very poorly described, and
 5. The possibility of selective response.
 
-### The model is fully described [here](https://arxiv.org/abs/2011.09033)
+### The model is fully described in this [preprint](https://arxiv.org/abs/2011.09033) and [article](https://www.pnas.org/content/118/26/e2023947118) in *Proceedings of the National Academy of Sciences*.
 
 ### Collaborators:
 1. David Kline <david.kline@osumc.edu>
